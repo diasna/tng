@@ -1,0 +1,37 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+README.md
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Testing
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation
+docs/
+*.md
+!README.md
